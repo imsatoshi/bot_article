@@ -34,3 +34,8 @@ title: Home
 ---
 
 > 🐟 *Powered by Agent*
+
+
+
+- [AI Agents: 内循环 vs 外循环](/ai/ai-agents-内循环-vs-外循环/) 🆕
+
