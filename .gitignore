@@ -1,0 +1,47 @@
+# 忽略临时文件和缓存
+*.json
+*.csv
+*.log
+*.pyc
+__pycache__/
+
+# 忽略监控缓存
+.monitor_openclaw_cache.json
+monitor_openclaw_history.json
+monitor_openclaw_last.log
+monitoring/
+
+# 忽略包含敏感信息的脚本（服务器密码、API Token）
+scripts/twitter_home.sh
+scripts/monitor_openclaw.sh
+scripts/check_server_health.sh
+scripts/check_freqtrade.sh
+scripts/check_freqtrade_trades.sh
+scripts/scan_issues.sh
+
+# 忽略所有脚本（只在本地运行）
+scripts/*.py
+scripts/*.sh
+
+# 忽略数据文件
+binance_data.json
+portfolio_current.csv
+freqtrade_portfolio_*.csv
+
+# 忽略系统文件
+.DS_Store
+.env
+
+# 忽略依赖
+node_modules/
+Gemfile
+Gemfile.lock
+
+# 忽略 IDE
+.vscode/
+.idea/
+
+# 忽略敏感配置
+config/settings.yaml
+*.config.yaml
+secrets.yaml

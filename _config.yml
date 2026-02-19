@@ -1,0 +1,36 @@
+# 基础配置
+title: "Bot Article Archive"
+description: "AI、Crypto、Tech 领域的知识库"
+author: "@imsatoshi"
+baseurl: "/bot_article"  # 仓库名
+url: "https://imsatoshi.github.io"
+
+# 主题（GitHub Pages 支持的主题）
+theme: minima
+
+# 导航
+header_pages:
+  - about.md
+
+# 插件
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# 排除文件
+exclude:
+  - README.md
+  - ".gitignore"
+  - "Gemfile"
+  - "Gemfile.lock"
+
+# 文章设置
+permalink: /:categories/:title/
+show_excerpts: true
+
+# 社交链接
+github_username: imsatoshi
+
+# 自定义变量
+last_updated: "2026-02-18"
