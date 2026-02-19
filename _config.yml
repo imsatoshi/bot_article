@@ -1,0 +1,18 @@
+# Jekyll 配置
+title: "Bot Article Archive"
+description: "AI、Crypto、Tech 领域的知识库"
+author: "@imsatoshi"
+baseurl: "/bot_article"
+url: "https://imsatoshi.github.io"
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+permalink: /:categories/:title/
+show_excerpts: true
+
+github_username: imsatoshi
