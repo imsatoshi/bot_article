@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# 📚 Bot Article Archive
+# 🤖 AI Digests
 
-> AI、Crypto、Tech 领域的知识库，由 [@imsatoshi](https://github.com/imsatoshi) 维护
+> AI、Crypto、Tech 精选文摘
 
 ---
 
