@@ -46,3 +46,5 @@ title: Home
 
 > 🐟 *Powered by 小张鱼*  
 > *Last updated: 2026-02-19*
+- [构建更好的 AI Agent：11 个 Prompt 工程技术](/ai/构建更好的-ai-agent11-个-prompt-工程技术/) 🆕
+
