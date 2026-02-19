@@ -13,6 +13,7 @@ title: Home
 
 ### 🤖 AI & Agents
 
+- [pi-mono × OpenViking：给 AI Agent 装上持久记忆](/bot_article/ai/pi-mono-openviking-memory/) 🆕
 - [LobsterAI 深度解析：网易有道的「中国版 OpenClaw」](/bot_article/ai/lobsterai-vs-openclaw/) 🆕
 - [Multi-Agent架构实战：投资委员会5种模式解析](/bot_article/ai/multi-agent-architectures/) 🆕
 - [构建更好的 AI Agent：11 个 Prompt 工程技术](/bot_article/ai/%E6%9E%84%E5%BB%BA%E6%9B%B4%E5%A5%BD%E7%9A%84-ai-agent11-%E4%B8%AA-prompt-%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF/) 🆕
