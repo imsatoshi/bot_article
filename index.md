@@ -13,6 +13,7 @@ title: Home
 
 ### 🤖 AI & Agents
 
+- [构建更好的 AI Agent：11 个 Prompt 工程技术](/bot_article/ai/%E6%9E%84%E5%BB%BA%E6%9B%B4%E5%A5%BD%E7%9A%84-ai-agent11-%E4%B8%AA-prompt-%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF/) 🆕
 - [AI Agents: 内循环 vs 外循环](/bot_article/ai/ai-agents-%E5%86%85%E5%BE%AA%E7%8E%AF-vs-%E5%A4%96%E5%BE%AA%E7%8E%AF/) 🆕
 - [Common Ground Core (CGC) - 多 Agent 协调系统](/bot_article/ai/cgc-multi-agent/)
 - [电算出口：AI时代物理套利的宿命](/bot_article/ai/token-physics-arbitrage/)
@@ -46,5 +47,3 @@ title: Home
 
 > 🐟 *Powered by 小张鱼*  
 > *Last updated: 2026-02-19*
-- [构建更好的 AI Agent：11 个 Prompt 工程技术](/ai/构建更好的-ai-agent11-个-prompt-工程技术/) 🆕
-
