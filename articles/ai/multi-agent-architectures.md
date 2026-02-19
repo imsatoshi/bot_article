@@ -1,11 +1,11 @@
 ---
+layout: post
 title: "Multi-Agent架构实战：投资委员会5种模式解析"
 description: "用Agno框架构建7个专业智能体的投资委员会，对比Route/Broadcast/Coordinate/Task/Workflow五种架构模式"
 date: 2026-02-19
-category: ai
-source: twitter
-author: Ashpreet Bedi (Agno)
+categories: ai
 tags: [multi-agent, agno, investment, architecture, ai]
+permalink: /ai/multi-agent-architectures/
 ---
 
 # 投资委员会实战：5种多智能体架构深度解析
