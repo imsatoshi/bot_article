@@ -13,7 +13,8 @@ title: Home
 
 ### 🤖 AI & Agents
 
-- [GEPA: 反思式提示词进化如何超越强化学习](/bot_article/ai/gepa-reflective-prompt-evolution/) 🆕 🔥
+- [如何构建 Agent 及其上下文工程](/bot_article/ai/how-to-build-agents/) 🆕 🔥
+- [GEPA: 反思式提示词进化如何超越强化学习](/bot_article/ai/gepa-reflective-prompt-evolution/) 🔥
 - [pi-mono × OpenViking：给 AI Agent 装上持久记忆](/bot_article/ai/pi-mono-openviking-memory/) 🆕
 - [LobsterAI 深度解析：网易有道的「中国版 OpenClaw」](/bot_article/ai/lobsterai-vs-openclaw/) 🆕
 - [Multi-Agent架构实战：投资委员会5种模式解析](/bot_article/ai/multi-agent-architectures/) 🆕
