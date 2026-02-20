@@ -1,6 +1,6 @@
 # 基础配置
-title: "Bot Article Archive"
-description: "AI、Crypto、Tech 领域的知识库"
+title: "AI Digests"
+description: "AI、Crypto、Tech 精选文摘"
 author: "@imsatoshi"
 baseurl: "/bot_article"  # 仓库名
 url: "https://imsatoshi.github.io"
@@ -33,4 +33,4 @@ show_excerpts: true
 github_username: imsatoshi
 
 # 自定义变量
-last_updated: "2026-02-18"
+last_updated: "2026-02-20"

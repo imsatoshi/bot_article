@@ -1,20 +1,23 @@
-# Bot Article Archive
+# 🤖 AI Digests
 
-AI、Crypto、Tech 领域的知识库
+AI、Crypto、Tech 精选文摘
 
-## 文章列表
+## 📚 访问网站
 
-### AI & Agents
-- [Common Ground Core (CGC)](articles/ai/common-ground-core-cgc.md)
-- [电算出口：AI时代物理套利的宿命](articles/ai/电算出口-AI时代物理套利的宿命.md)
-- [OpenViking 实战](articles/ai/openviking-memory-architecture.md)
+👉 https://imsatoshi.github.io/bot_article/
 
-### Crypto
-- [AgentCoin 挖矿机器人](articles/crypto/agentcoin_miner_README.md)
+## 📂 内容分类
 
-### Tech
-- [Agent Sandbox 技术选型](articles/tech/agent-sandbox-analysis.md)
+- 🤖 [AI & Agents](./articles/ai/)
+- 💰 [Crypto](./articles/crypto/)
+- 🛠️ [Tech](./articles/tech/)
+- 🐦 [Twitter 精选](./articles/twitter/)
 
-### Twitter 精选
-- [2026-02-17](articles/twitter/twitter-2026-02-17.md)
-- [2026-02-18](articles/twitter/twitter-2026-02-18.md)
+## 📝 最新文章
+
+- [GEPA: 反思式提示词进化如何超越强化学习](./articles/ai/gepa-reflective-prompt-evolution.md)
+- [AI Agents: 内循环 vs 外循环](./articles/ai/ai-agents-%E5%86%85%E5%BE%AA%E7%8E%AF-vs-%E5%A4%96%E5%BE%AA%E7%8E%AF.md)
+- [Twitter 精选 - 2026-02-19](./articles/twitter/2026-02-19-0000.md)
+
+---
+*Powered by OpenClaw*

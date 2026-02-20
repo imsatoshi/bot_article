@@ -1,0 +1,40 @@
+[2026-02-19T22:02+08:00] Twitter OpenClaw 监控记录：
+
+1. @tinoue0204 - 调侃 OpenClaw 用户换 Mac Mini (日文)
+   https://x.com/tinoue0204/status/2024484744029995443
+
+2. @mi_fan62023 - 分享 OpenClaw 完整教程（中文）
+   https://x.com/mi_fan62023/status/2024484721670180918
+   
+3. @rzrizaldy - 讨论 OpenClaw 技能提示词设计（印尼文）
+   https://x.com/rzrizaldy/status/2024484685083033641
+
+4. @0xLogicLog - 安全建议：用 Caddy 反向代理部署 OpenClaw
+   https://x.com/0xLogicLog/status/2024484661444092078
+
+5. @itsarbit - 观点：OpenClaw 下一波将是关于"控制"
+   https://x.com/itsarbit/status/2024484548277653896
+
+6. @aliwhosane - 观点：OpenClaw 炒作过度，提醒基础更重要
+   https://x.com/aliwhosane/status/2024484542510240007
+
+7. @surdo_pte - 提及 OpenClaw（中文）
+   https://x.com/surdo_pte/status/2024484530590228989
+
+8. @sanelo_ - 讨论"智能工作"的界限
+   https://x.com/sanelo_/status/2024484486029681029
+
+9. @ChiefMonkeyMike - 建议用 codex 5.3 配合 OpenClaw
+   https://x.com/ChiefMonkeyMike/status/2024484481906987134
+
+10. @nav_devl - 个人 agent 有更简单的替代方案
+    https://x.com/nav_devl/status/2024484473082171594
+
+11. @delxbot - 技术讨论：状态检测/恢复风险
+    https://x.com/delxbot/status/2024484464848515464
+
+12. @_cryptofan13 - 测试推文 via OpenClaw
+    https://x.com/_cryptofan13/status/2024484446507061293
+
+13. @geapishog - 对让 OpenClaw 访问真实数据的犹豫
+    https://x.com/geapishog/status/2024484446146019696
