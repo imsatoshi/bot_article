@@ -14,7 +14,7 @@ permalink: /ai/how-to-build-agents/
 
 ## 什么是 Agent？
 
-![Agent 定义](https://www.anthropic.com/engineering/building-effective-agents)
+![Agent 定义](https://assets.nazha.co/agent-in-action%20(1).png)
 
 **Agent** 是基于 LLMs 构建的具备自我决策能力、推理、规划和与环境交互的系统。
 
@@ -34,7 +34,7 @@ permalink: /ai/how-to-build-agents/
 
 **长任务完成度是 Agent 的核心指标：**
 
-![长任务表现对比](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+![Opus 长任务表现](https://assets.nazha.co/%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%20Agent%20%E5%8F%8A%E5%85%B6%E4%B8%8A%E4%B8%8B%E6%96%87%E5%B7%A5%E7%A8%8B%20-%20Opus%20%E7%9A%84%E8%A1%A8%E7%8E%B0%E9%9D%9E%E5%B8%B8%E5%87%BA%E8%89%B2.png)
 
 - 完成度越高的 LLMs，在指令对齐、工具有效使用上效果更好
 - **Opus 在长任务表现非常出色**
@@ -50,7 +50,7 @@ permalink: /ai/how-to-build-agents/
 2. **指令** - 工作流程、最佳实践、注意事项（Agent 确定使用时才读取）
 3. **资源或代码** - 脚本、模板或参考文档（渐进式披露策略）
 
-![Skill 示例](https://www.nazha.co/posts/how-to-build-agents)
+![Skill 示例](https://assets.nazha.co/%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%20Agent%20%E5%8F%8A%E5%85%B6%E4%B8%8A%E4%B8%8B%E6%96%87%E5%B7%A5%E7%A8%8B%20-%20a%20simple%20skill.md%20file.png)
 
 **Skills 的本质是「可复用的提示词」：**
 
@@ -81,7 +81,9 @@ permalink: /ai/how-to-build-agents/
 > 
 > —— 来自 [@dotey](https://x.com/dotey/status/2015264362538160573)
 
-![Frontend 比喻](https://www.nazha.co/posts/how-to-build-agents)
+![MCP 是连接外部系统的标准](https://assets.nazha.co/%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%20Agent%20%E5%8F%8A%E5%85%B6%E4%B8%8A%E4%B8%8B%E6%96%87%E5%B7%A5%E7%A8%8B%20-%20MCP%20is%20the%20standard%20to%20connect%20external%20systems.png)
+
+![Frontend 比喻](https://assets.nazha.co/%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%20Agent%20%E5%8F%8A%E5%85%B6%E4%B8%8A%E4%B8%8B%E6%96%87%E5%B7%A5%E7%A8%8B%20-%20frontend%20metaphor.png)
 
 **前端同学能听懂的比喻：**
 - React 页面 = Agent
@@ -134,7 +136,7 @@ permalink: /ai/how-to-build-agents/
 - 主 Agent 保持任务控制，调用子 Agent 处理子任务
 - **不移交任务控制权**
 
-![委托模式架构](nano-banana-1768876869766-0.jpeg)
+![委托模式架构](https://assets.nazha.co/nano-banana-1768876869766-0.jpeg)
 
 **优点**：架构设计简单，灵活性强
 
@@ -164,9 +166,9 @@ permalink: /ai/how-to-build-agents/
 | **Swarm** | 多个代理作为团队解决问题，去中心化，共享信息上下文 |
 | **Graph** | 基于确定性有向图的代理编排，包含多路径、分支、反馈循环 |
 
-![Swarm Intelligence](https://en.wikipedia.org/wiki/Swarm_intelligence)
+![Swarm Intelligence](https://assets.nazha.co/418698-artificial-intelligence-swarm-predictions-unu.webp)
 
-![Graph patterns](https://www.nazha.co/posts/how-to-build-agents)
+![Graph patterns](https://assets.nazha.co/nano-banana-1768964408672-0.jpeg)
 
 ---
 
@@ -174,7 +176,7 @@ permalink: /ai/how-to-build-agents/
 
 ### 传统自回归 LLM 模型
 
-![Standard probabilistic model](https://www.nazha.co/posts/how-to-build-agents)
+![Standard probabilistic model](https://assets.nazha.co/Context%20Engineering%20-%20standard%20probabilistic%20model.png)
 
 其中 C = prompt，但对现代系统来说，C = prompt **是不够的**。
 
@@ -182,7 +184,7 @@ permalink: /ai/how-to-build-agents/
 
 将上下文 C 重新概念化为**动态结构的信息组件集合** c₁, c₂, ..., cₙ：
 
-![上下文工程公式](https://www.nazha.co/posts/how-to-build-agents)
+![上下文工程公式](https://assets.nazha.co/Context%20Engineering%20-%20what%20is%20%E4%B8%8A%E4%B8%8B%E6%96%87%E5%B7%A5%E7%A8%8B.png)
 
 **组件类型：**
 
@@ -208,7 +210,7 @@ A = Concat ∘ (Format₁, ..., Formatₙ)
 - 选择与目标答案在给定查询条件下具有**最大互信息量**的知识
 - 要求检索到的上下文不仅语义相似，且对于解决任务具有最大信息量
 
-![用户可见的上下文很少](https://www.nazha.co/posts/how-to-build-agents)
+![用户可见的上下文很少](https://assets.nazha.co/%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%20Agent%20%E5%8F%8A%E5%85%B6%E4%B8%8A%E4%B8%8B%E6%96%87%E5%B7%A5%E7%A8%8B%20-%20%E7%94%A8%E6%88%B7%E5%8F%AF%E8%A7%81%E7%9A%84.png)
 
 **常见问题：**
 - 过程累积导致的上下文膨胀
@@ -257,7 +259,7 @@ A = Concat ∘ (Format₁, ..., Formatₙ)
 
 #### 基于文件系统的二次检索策略
 
-![二次检索策略](https://www.nazha.co/posts/how-to-build-agents)
+![二次检索策略](https://assets.nazha.co/%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%20Agent%20%E5%8F%8A%E5%85%B6%E4%B8%8A%E4%B8%8B%E6%96%87%E5%B7%A5%E7%A8%8B%20-%20%E5%9F%BA%E4%BA%8E%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E4%BA%8C%E6%AC%A1%E6%A3%80%E7%B4%A2%E7%AD%96%E7%95%A5.png)
 
 **适用场景**：组件文档、库文档、API 文档等偏结构性文档
 
@@ -313,7 +315,7 @@ A = Concat ∘ (Format₁, ..., Formatₙ)
 
 **结论**：标准协议（CodeAct/SQL/Shell）天然比自定义工具对 LLMs 更友好
 
-![MCP 分层设计](https://www.nazha.co/posts/how-to-build-agents)
+![MCP 分层设计](https://assets.nazha.co/%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%20Agent%20%E5%8F%8A%E5%85%B6%E4%B8%8A%E4%B8%8B%E6%96%87%E5%B7%A5%E7%A8%8B%20-%20MCP%20%E7%9A%84%E5%88%86%E5%B1%82%E8%AE%BE%E8%AE%A1.png)
 
 **事实**：许多流行通用智能体使用的工具数量出人意料地少
 - Claude Code: 十几个工具
@@ -341,7 +343,7 @@ A = Concat ∘ (Format₁, ..., Formatₙ)
   - 59 个数据库
 - **Biomni-A1**: 专门设计用于高效利用该环境的智能代理
 
-![Biomni Overview](https://www.biorxiv.org/content/10.1101/2025.05.30.656746v1.full)
+![Biomni Overview](https://assets.nazha.co/2026-01-19%20-%20biomni%20overview.png)
 
 **构建 E1 的方法：**
 1. 从 25 个学科类别各选 100 篇最新论文
