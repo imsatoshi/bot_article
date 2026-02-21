@@ -13,7 +13,8 @@ title: Home
 
 ### 🤖 AI & Agents
 
-- [Claude Flows (Ruflo v3) 深度解析：企业级 AI Agent 编排平台](/bot_article/ai/claude-flows-analysis/) 🆕 🔥
+- [渐进式披露：LLM时代的核心工程哲学](/bot_article/ai/progressive-disclosure-llm/) 🆕 🔥
+- [Claude Flows (Ruflo v3) 深度解析：企业级 AI Agent 编排平台](/bot_article/ai/claude-flows-analysis/) 🔥
 - [如何构建 Agent 及其上下文工程](/bot_article/ai/how-to-build-agents/) 🔥
 - [GEPA: 反思式提示词进化如何超越强化学习](/bot_article/ai/gepa-reflective-prompt-evolution/) 🔥
 - [pi-mono × OpenViking：给 AI Agent 装上持久记忆](/bot_article/ai/pi-mono-openviking-memory/) 🆕
@@ -29,6 +30,7 @@ title: Home
 - [Harness Engineering：不更换模型，让 Agent 性能提升 13.7%](/bot_article/ai/harness-engineering-langchain/)
 - [Skill Graphs > SKILL.md：从单文件到知识图谱的进化](/bot_article/ai/skill-graphs-vs-skill-md/)
 - [epro-memory 深度解析：LLM Agent 的六级分类记忆系统](/bot_article/ai/epro-memory-agent-memory/)
+- [Pi：OpenClaw 背后的极简 Agent 哲学](/bot_article/ai/pi-minimal-agent/)
 
 ### 💰 Crypto
 
@@ -52,7 +54,4 @@ title: Home
 ---
 
 > 🐟 *Powered by 小张鱼*  
-> *Last updated: 2026-02-21*
-
-- [Pi：OpenClaw 背后的极简 Agent 哲学](/ai/pi-minimal-agent/) 🆕
-
+> *Last updated: 2026-02-22*
