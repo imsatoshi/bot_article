@@ -53,3 +53,6 @@ title: Home
 
 > 🐟 *Powered by 小张鱼*  
 > *Last updated: 2026-02-21*
+
+- [Pi：OpenClaw 背后的极简 Agent 哲学](/ai/pi-minimal-agent/) 🆕
+
