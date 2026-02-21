@@ -1,0 +1,9 @@
+{
+  "name": "claude-relay-monitor",
+  "version": "1.0.0",
+  "description": "监控 claude-relay-service 的 API Key 使用情况和费用统计",
+  "scripts": {
+    "check": "python scripts/check_apikey_usage.py",
+    "cost": "bash scripts/check_cost.sh"
+  }
+}

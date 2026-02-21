@@ -1,0 +1,12 @@
+[2026-02-19T01:47:00.428Z] [INFO] 正在初始化 MCP 会话...
+[2026-02-19T01:47:00.430Z] [INFO] [MCP] initialize {"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"openclaw-adapter","version":
+[2026-02-19T01:47:00.481Z] [INFO] MCP 初始化成功
+[2026-02-19T01:47:00.482Z] [INFO] 服务器信息: { name: 'xiaohongshu-mcp', version: '2.0.0' }
+[2026-02-19T01:47:00.482Z] [INFO] [MCP] tools/list {}
+[2026-02-19T01:47:00.488Z] [ERROR] [MCP] tools/list 失败: MCP Error: method "tools/list" is invalid during session initialization
+[2026-02-19T01:47:00.488Z] [ERROR] MCP 初始化失败: MCP Error: method "tools/list" is invalid during session initialization
+[2026-02-19T01:47:00.488Z] [ERROR] 启动失败: Error: MCP Error: method "tools/list" is invalid during session initialization
+    at sendMcpRequest (file:///root/.openclaw/workspace/skills/xiaohongshu/adapter-server.js:57:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async initializeMcp (file:///root/.openclaw/workspace/skills/xiaohongshu/adapter-server.js:91:25)
+    at async start (file:///root/.openclaw/workspace/skills/xiaohongshu/adapter-server.js:499:5)

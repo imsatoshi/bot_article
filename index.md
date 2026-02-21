@@ -13,11 +13,14 @@ title: Home
 
 ### 🤖 AI & Agents
 
+- [Claude Flows (Ruflo v3) 深度解析：企业级 AI Agent 编排平台](/bot_article/ai/claude-flows-analysis/) 🆕 🔥
+- [如何构建 Agent 及其上下文工程](/bot_article/ai/how-to-build-agents/) 🔥
+- [GEPA: 反思式提示词进化如何超越强化学习](/bot_article/ai/gepa-reflective-prompt-evolution/) 🔥
 - [pi-mono × OpenViking：给 AI Agent 装上持久记忆](/bot_article/ai/pi-mono-openviking-memory/) 🆕
 - [LobsterAI 深度解析：网易有道的「中国版 OpenClaw」](/bot_article/ai/lobsterai-vs-openclaw/) 🆕
 - [Multi-Agent架构实战：投资委员会5种模式解析](/bot_article/ai/multi-agent-architectures/) 🆕
-- [构建更好的 AI Agent：11 个 Prompt 工程技术](/bot_article/ai/%E6%9E%84%E5%BB%BA%E6%9B%B4%E5%A5%BD%E7%9A%84-ai-agent11-%E4%B8%AA-prompt-%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF/) 🆕
-- [AI Agents: 内循环 vs 外循环](/bot_article/ai/ai-agents-%E5%86%85%E5%BE%AA%E7%8E%AF-vs-%E5%A4%96%E5%BE%AA%E7%8E%AF/) 🆕
+- [构建更好的 AI Agent：11 个 Prompt 工程技术](/bot_article/ai/%E6%9E%84%E5%BB%BA%E6%9B%B4%E5%A5%BD%E7%9A%84-ai-agent11-%E4%B8%AA-prompt-%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF/)
+- [AI Agents: 内循环 vs 外循环](/bot_article/ai/ai-agents-%E5%86%85%E5%BE%AA%E7%8E%AF-vs-%E5%A4%96%E5%BE%AA%E7%8E%AF/)
 - [Common Ground Core (CGC) - 多 Agent 协调系统](/bot_article/ai/cgc-multi-agent/)
 - [电算出口：AI时代物理套利的宿命](/bot_article/ai/token-physics-arbitrage/)
 - [OpenViking 实战：字节跳动记忆架构](/bot_article/ai/openviking-memory/)
@@ -49,6 +52,4 @@ title: Home
 ---
 
 > 🐟 *Powered by 小张鱼*  
-> *Last updated: 2026-02-19*
-- [Claude Flows (Ruflo v3) 深度解析：企业级 AI Agent 编排平台](/ai/claude-flows-analysis/) 🆕
-
+> *Last updated: 2026-02-21*
