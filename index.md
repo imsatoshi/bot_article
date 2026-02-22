@@ -38,6 +38,7 @@ title: Home
 
 ### 🛠️ Tech
 
+- [How I Use Claude Code - Boris Tane 的高效工作流](/bot_article/tech/how-i-use-claude-code/) 🆕 🔥
 - [Agent Sandbox 技术选型深度解析](/bot_article/tech/agent-sandbox/)
 
 ### 🐦 Twitter 精选
