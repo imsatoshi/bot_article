@@ -61,8 +61,4 @@ title: Home
 ---
 
 > 🐟 *Powered by 小张鱼*  
-<<<<<<< HEAD
-> *Last updated: 2026-02-23*
-=======
 > *Last updated: 2026-02-24*
->>>>>>> 8d4ac24 (Add AI Agent orchestrator article: OpenClaw + Agent Orchestrator comparison)
