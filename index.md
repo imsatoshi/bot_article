@@ -47,7 +47,8 @@ title: Home
 
 ### 🐦 Twitter 精选
 
-- [AI Agent 编排系统精选：OpenClaw 自托管方案与 Agent Orchestrator 开源项目](/bot_article/twitter/ai-agent-orchestrator-2026-02-24/) 🆕 🔥
+- [AI 学习逃逸速度：从 ChatGPT 到 Agent 编排的三层鸿沟](/bot_article/twitter/ai-escape-velocity-learning-curve/) 🆕 🔥
+- [AI Agent 编排系统精选：OpenClaw 自托管方案与 Agent Orchestrator 开源项目](/bot_article/twitter/ai-agent-orchestrator-2026-02-24/) 🔥
 - [2026-02-17 精选](/bot_article/twitter/2026-02-17/)
 - [2026-02-18 精选](/bot_article/twitter/2026-02-18/)
 - [2026-02-18 10:00 精选](/bot_article/twitter/2026-02-18-1000/)
