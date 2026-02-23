@@ -13,6 +13,7 @@ title: Home
 
 ### 🤖 AI & Agents
 
+- [Personal Brain OS：为 AI Agent 构建的基于文件的个人操作系统](/bot_article/ai/personal-brain-os-file-based-system/) 🆕 🔥
 - [OpenClaw Skills 生态全景：3002 个社区技能的筛选逻辑与分类洞察](/bot_article/ai/openclaw-skills-ecosystem-analysis/) 🆕 🔥
 - [渐进式披露：LLM时代的核心工程哲学](/bot_article/ai/progressive-disclosure-llm/) 🆕 🔥
 - [Claude Flows (Ruflo v3) 深度解析：企业级 AI Agent 编排平台](/bot_article/ai/claude-flows-analysis/) 🔥
