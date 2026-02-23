@@ -1,0 +1,77 @@
+{
+  "date": "2026-02-23",
+  "repositories": [
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 117803,
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "language": null,
+      "forks": 30570
+    },
+    {
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "stars": 68966,
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "Shell",
+      "forks": 5412
+    },
+    {
+      "name": "OpenBB-finance/OpenBB",
+      "url": "https://github.com/OpenBB-finance/OpenBB",
+      "stars": 60991,
+      "description": "Financial data platform for analysts, quants and AI agents.",
+      "language": "Python",
+      "forks": 5947
+    },
+    {
+      "name": "stan-smith/FossFLOW",
+      "url": "https://github.com/stan-smith/FossFLOW",
+      "stars": 18172,
+      "description": "Make beautiful isometric infrastructure diagrams",
+      "language": "TypeScript",
+      "forks": 1177
+    },
+    {
+      "name": "Stremio/stremio-web",
+      "url": "https://github.com/Stremio/stremio-web",
+      "stars": 9709,
+      "description": "Stremio - Freedom to Stream",
+      "language": "JavaScript",
+      "forks": 1068
+    },
+    {
+      "name": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "stars": 7006,
+      "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "language": "Go",
+      "forks": 814
+    },
+    {
+      "name": "cloudflare/agents",
+      "url": "https://github.com/cloudflare/agents",
+      "stars": 3742,
+      "description": "Build and deploy AI Agents on Cloudflare",
+      "language": "TypeScript",
+      "forks": 403
+    },
+    {
+      "name": "huggingface/skills",
+      "url": "https://github.com/huggingface/skills",
+      "stars": 2620,
+      "description": null,
+      "language": "Python",
+      "forks": 186
+    },
+    {
+      "name": "abhigyanpatwari/GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "stars": 1514,
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "language": "TypeScript",
+      "forks": 116
+    }
+  ]
+}
