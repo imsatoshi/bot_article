@@ -2,3 +2,5 @@
 ./cron/evening-patrol.sh: line 87: [: 0
 0: integer expression expected
 Evening patrol complete. Report: /root/evolution-os/health/evening-report-2026-02-23.md
+=== Morning Patrol: Tue Feb 24 06:30:01 AM CST 2026 ===
+Morning patrol complete. Report: /root/evolution-os/health/morning-report-2026-02-24.md
