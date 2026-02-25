@@ -11,3 +11,10 @@ Morning patrol complete. Report: /root/evolution-os/health/morning-report-2026-0
 Evening patrol complete. Report: /root/evolution-os/health/evening-report-2026-02-24.md
 === Morning Patrol: Wed Feb 25 06:30:01 AM CST 2026 ===
 Morning patrol complete. Report: /root/evolution-os/health/morning-report-2026-02-25.md
+=== Evening Patrol: Wed Feb 25 10:00:01 PM CST 2026 ===
+./cron/evening-patrol.sh: line 87: [: 0
+0: integer expression expected
+./cron/evening-patrol.sh: line 144: [: : integer expression expected
+Evening patrol complete. Report: /root/evolution-os/health/evening-report-2026-02-25.md
+=== Morning Patrol: Thu Feb 26 06:30:01 AM CST 2026 ===
+Morning patrol complete. Report: /root/evolution-os/health/morning-report-2026-02-26.md
