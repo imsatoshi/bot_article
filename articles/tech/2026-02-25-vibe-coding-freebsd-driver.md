@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vibe Coding 巅峰：多模型"左右互搏"开发 FreeBSD 内核驱动"
+title: "Vibe Coding 巅峰：多模型『左右互搏』开发 FreeBSD 内核驱动"
 date: 2026-02-25
 categories: tech
 tags: [AI, Agent, Vibe Coding, FreeBSD, Claude Code]
