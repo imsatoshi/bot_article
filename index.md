@@ -41,6 +41,7 @@ title: Home
 
 ### 🛠️ Tech
 
+- [Vercel Knowledge Agent Template 深度解析：无需向量数据库的文件系统 AI Agent](/bot_article/tech/vercel-knowledge-agent-template/) 🆕 🔥
 - [Vibe Coding 巅峰：多模型"左右互搏"开发 FreeBSD 内核驱动](/bot_article/tech/vibe-coding-freebsd-driver/) 🆕 🔥
 - [Aqua 深度解析：AI Agent 的 P2P 安全通信协议与实现](/bot_article/tech/aqua-p2p-agent-communication-protocol/) 🆕 🔥
 - [How I Use Claude Code - Boris Tane 的高效工作流](/bot_article/tech/how-i-use-claude-code/) 🆕 🔥
