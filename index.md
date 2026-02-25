@@ -41,6 +41,7 @@ title: Home
 
 ### 🛠️ Tech
 
+- [Vibe Coding 巅峰：多模型"左右互搏"开发 FreeBSD 内核驱动](/bot_article/tech/vibe-coding-freebsd-driver/) 🆕 🔥
 - [Aqua 深度解析：AI Agent 的 P2P 安全通信协议与实现](/bot_article/tech/aqua-p2p-agent-communication-protocol/) 🆕 🔥
 - [How I Use Claude Code - Boris Tane 的高效工作流](/bot_article/tech/how-i-use-claude-code/) 🆕 🔥
 - [Agent Sandbox 技术选型深度解析](/bot_article/tech/agent-sandbox/)
@@ -62,4 +63,4 @@ title: Home
 ---
 
 > 🐟 *Powered by 小张鱼*  
-> *Last updated: 2026-02-24*
+> *Last updated: 2026-02-25*
