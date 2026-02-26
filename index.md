@@ -13,6 +13,7 @@ title: Home
 
 ### 🤖 AI & Agents
 
+- [Palantir: 生产环境中保护 Agents 的安全架构](/bot_article/ai/palantir-securing-agents-in-production/) 🆕 🔥
 - [Daily AI News — 2026年2月26日](/bot_article/ai/daily-ai-news-2026-02-26/) 🆕 🔥
 - [Steve Yegge: Welcome to Gas Town - AI Agent 编排系统的未来](/bot_article/ai/steve-yegge-gas-town/) 🆕 🔥
 - [OpenAI 发布威胁报告：Disrupting Malicious Uses of AI](/bot_article/ai/openai-disrupting-malicious-ai-uses/) 🆕 🔥
