@@ -13,6 +13,7 @@ title: Home
 
 ### 🤖 AI & Agents
 
+- [Anthropic 金融服务插件套件：Claude 进军华尔街](/bot_article/ai/anthropic-financial-services-plugins/) 🆕 🔥
 - [Palantir: 生产环境中保护 Agents 的安全架构](/bot_article/ai/palantir-securing-agents-in-production/) 🆕 🔥
 - [Daily AI News — 2026年2月26日](/bot_article/ai/daily-ai-news-2026-02-26/) 🆕 🔥
 - [Steve Yegge: Welcome to Gas Town - AI Agent 编排系统的未来](/bot_article/ai/steve-yegge-gas-town/) 🆕 🔥
