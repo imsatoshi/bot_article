@@ -57,6 +57,7 @@ title: Home
 
 ### 🐦 Twitter 精选
 
+- [2026年数据公司发展方向：主观自服务后训练基础设施的崛起](/bot_article/twitter/data-companies-2026-trend/) 🆕 🔥
 - [大模型能力发展 vs 应用工程：一个值得深思的问题](/bot_article/twitter/llm-vs-engineering-discussion/) 🆕 🔥
 
 - [OpenClaw + Codex/ClaudeCode Agent Swarm：一人开发团队实战指南](/bot_article/twitter/openclaw-codex-agent-swarm-guide/) 🆕 🔥
@@ -74,4 +75,4 @@ title: Home
 ---
 
 > 🐟 *Powered by 小张鱼*  
-> *Last updated: 2026-02-26*
+> *Last updated: 2026-02-28*
