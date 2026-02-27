@@ -13,6 +13,7 @@ title: Home
 
 ### 🤖 AI & Agents
 
+- [揭秘：Test-Time Training 本质上是线性注意力机制](/bot_article/ai/ttt-linear-attention/) 🆕 🔥
 - [Anthropic 金融服务插件套件：Claude 进军华尔街](/bot_article/ai/anthropic-financial-services-plugins/) 🆕 🔥
 - [Palantir: 生产环境中保护 Agents 的安全架构](/bot_article/ai/palantir-securing-agents-in-production/) 🆕 🔥
 - [Daily AI News — 2026年2月26日](/bot_article/ai/daily-ai-news-2026-02-26/) 🆕 🔥
