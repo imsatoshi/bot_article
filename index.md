@@ -13,6 +13,7 @@ title: Home
 
 ### 🤖 AI & Agents
 
+- [OpenClaw-RL 深度解析：通过对话训练个性化 AI Agent](/bot_article/ai/openclaw-rl-personalized-agent-training/) 🆕 🔥
 - [eue + Tape 架构深度解析：自演进 Agent 的上下文管理新范式](/bot_article/ai/eue-tape-architecture/) 🆕 🔥
 - [揭秘：Test-Time Training 本质上是线性注意力机制](/bot_article/ai/ttt-linear-attention/) 🆕 🔥
 - [Anthropic 金融服务插件套件：Claude 进军华尔街](/bot_article/ai/anthropic-financial-services-plugins/) 🆕 🔥
