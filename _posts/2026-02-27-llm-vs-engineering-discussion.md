@@ -1,3 +1,12 @@
+---
+layout: post
+title: "大模型能力发展 vs 应用工程：一个值得深思的问题"
+date: 2026-02-27
+categories: twitter
+tags: [大模型, AI Engineering, Twitter, 讨论]
+permalink: /twitter/llm-vs-engineering-discussion/
+---
+
 # 大模型能力发展 vs 应用工程：一个值得深思的问题
 
 > 本文整理自 Twitter/X 讨论帖，原文作者：盐粒 Yanli ([@beautyyuyanli](https://x.com/beautyyuyanli))
