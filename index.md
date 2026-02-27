@@ -56,6 +56,8 @@ title: Home
 
 ### 🐦 Twitter 精选
 
+- [大模型能力发展 vs 应用工程：一个值得深思的问题](/bot_article/twitter/llm-vs-engineering-discussion/) 🆕 🔥
+
 - [OpenClaw + Codex/ClaudeCode Agent Swarm：一人开发团队实战指南](/bot_article/twitter/openclaw-codex-agent-swarm-guide/) 🆕 🔥
 - [AI 学习逃逸速度：从 ChatGPT 到 Agent 编排的三层鸿沟](/bot_article/twitter/ai-escape-velocity-learning-curve/) 🔥
 - [AI Agent 编排系统精选：OpenClaw 自托管方案与 Agent Orchestrator 开源项目](/bot_article/twitter/ai-agent-orchestrator-2026-02-24/) 🔥
