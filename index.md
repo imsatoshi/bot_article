@@ -13,6 +13,7 @@ title: Home
 
 ### 🤖 AI & Agents
 
+- [2026年 AI 的关键转折：为什么 Agent Harness 将成为基础设施的核心](/bot_article/ai/agent-harness-2026/) 🆕 🔥
 - [OpenClaw-RL 深度解析：通过对话训练个性化 AI Agent](/bot_article/ai/openclaw-rl-personalized-agent-training/) 🆕 🔥
 - [eue + Tape 架构深度解析：自演进 Agent 的上下文管理新范式](/bot_article/ai/eue-tape-architecture/) 🆕 🔥
 - [揭秘：Test-Time Training 本质上是线性注意力机制](/bot_article/ai/ttt-linear-attention/) 🆕 🔥
