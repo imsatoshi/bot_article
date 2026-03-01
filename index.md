@@ -13,6 +13,7 @@ title: Home
 
 ### 🤖 AI & Agents
 
+- [大模型硬件的终局推演：GPU与LPU的异构系统](/bot_article/ai/gpu-lpu-heterogeneous-endgame/) 🆕 🔥
 - [AgentCgroup 论文解读：AI Agent 的 OS 资源控制新范式](/bot_article/ai/agentcgroup-paper/) 🆕 🔥
 - [2026年 AI 的关键转折：为什么 Agent Harness 将成为基础设施的核心](/bot_article/ai/agent-harness-2026/) 🆕 🔥
 - [OpenClaw-RL 深度解析：通过对话训练个性化 AI Agent](/bot_article/ai/openclaw-rl-personalized-agent-training/) 🆕 🔥
