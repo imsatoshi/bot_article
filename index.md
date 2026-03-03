@@ -13,7 +13,7 @@ title: Home
 
 ### 🤖 AI & Agents
 
-- [Claude Cowork 17个最佳实践：从玩具到系统的完整指南](/bot_article/ai/claude-cowork-best-practices/) 🆕 🔥
+- [Claude Cowork 17 Best Practices](/bot_article/ai/claude-cowork-best-practices/) 🆕 🔥
 - [Codified Context: AI Agent 上下文基础设施论文解读](/bot_article/ai/codified-context-paper/) 🆕 🔥
 - [大模型硬件的终局推演：GPU与LPU的异构系统](/bot_article/ai/gpu-lpu-heterogeneous-endgame/) 🆕 🔥
 - [AgentCgroup 论文解读：AI Agent 的 OS 资源控制新范式](/bot_article/ai/agentcgroup-paper/) 🆕 🔥
