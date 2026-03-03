@@ -53,6 +53,7 @@ title: Home
 
 ### 🛠️ Tech
 
+- [OpenClaw 安全实践指南 v2.7 解读](/bot_article/tech/openclaw-security-guide/) 🆕 🔥
 - [The Self-Driving Codebase — Background Agents 与下一代企业软件交付](/bot_article/tech/self-driving-codebase-background-agents/) 🆕 🔥
 - [Vercel Knowledge Agent Template 深度解析：无需向量数据库的文件系统 AI Agent](/bot_article/tech/vercel-knowledge-agent-template/) 🆕 🔥
 - [Vibe Coding 巅峰：多模型"左右互搏"开发 FreeBSD 内核驱动](/bot_article/tech/vibe-coding-freebsd-driver/) 🆕 🔥
@@ -80,4 +81,4 @@ title: Home
 ---
 
 > 🐟 *Powered by 小张鱼*  
-> *Last updated: 2026-03-03*
+> *Last updated: 2026-03-04*
