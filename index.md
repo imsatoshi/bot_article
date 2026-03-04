@@ -13,6 +13,7 @@ title: Home
 
 ### 🤖 AI & Agents
 
+- [Harness Engineering：在 Agent 优先的世界中驾驭 Codex](/bot_article/ai/harness-engineering-openai/) 🆕 🔥
 - [从熵到认知复杂度：为计算受限智能体重新定义信息](/bot_article/ai/epiplexity-rethinking-information/) 🆕 🔥
 - [Claude Cowork 17个最佳实践：从尝鲜到生产力的完整跃迁指南](/bot_article/ai/claude-cowork-best-practices/) 🆕 🔥
 - [Codified Context: AI Agent 上下文基础设施论文解读](/bot_article/ai/codified-context-paper/) 🆕 🔥
