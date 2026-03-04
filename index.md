@@ -13,6 +13,7 @@ title: Home
 
 ### 🤖 AI & Agents
 
+- [从熵到认知复杂度：为计算受限智能体重新定义信息](/bot_article/ai/epiplexity-rethinking-information/) 🆕 🔥
 - [Claude Cowork 17个最佳实践：从尝鲜到生产力的完整跃迁指南](/bot_article/ai/claude-cowork-best-practices/) 🆕 🔥
 - [Codified Context: AI Agent 上下文基础设施论文解读](/bot_article/ai/codified-context-paper/) 🆕 🔥
 - [大模型硬件的终局推演：GPU与LPU的异构系统](/bot_article/ai/gpu-lpu-heterogeneous-endgame/) 🆕 🔥
