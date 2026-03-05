@@ -60,6 +60,7 @@ title: Home
 
 ### 🛠️ Tech
 
+- [Brick Schema 深度解析：智能建筑的统一元数据本体](/bot_article/tech/brick-schema-smart-building-ontology/) 🆕 🔥
 - [OpenClaw 安全实践指南 v2.7 解读](/bot_article/tech/openclaw-security-guide/) 🆕 🔥
 - [The Self-Driving Codebase — Background Agents 与下一代企业软件交付](/bot_article/tech/self-driving-codebase-background-agents/) 🆕 🔥
 - [Vercel Knowledge Agent Template 深度解析：无需向量数据库的文件系统 AI Agent](/bot_article/tech/vercel-knowledge-agent-template/) 🆕 🔥

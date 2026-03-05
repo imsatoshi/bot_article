@@ -15,6 +15,7 @@ AI、Crypto、Tech 精选文摘
 
 ## 📝 最新文章
 
+- [Brick Schema 深度解析：智能建筑的统一元数据本体](./articles/tech/2026-03-05-brick-schema.md)
 - [论文解读：思维的分子结构——长思维链推理的拓扑映射](./articles/ai/2026-03-05-molecular-structure-of-thought.md)
 - [Mitchell Hashimoto 的 AI 采用之旅：从怀疑到离不开](./articles/ai/2026-03-05-mitchell-hashimoto-ai-adoption-journey.md)
 - [GEPA: 反思式提示词进化如何超越强化学习](./articles/ai/gepa-reflective-prompt-evolution.md)
