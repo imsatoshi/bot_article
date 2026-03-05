@@ -13,6 +13,7 @@ title: Home
 
 ### 🤖 AI & Agents
 
+- [Anthropic 长运行 Agent Harness 实践：让 AI 跨越多个会话持续工作](/bot_article/ai/anthropic-long-running-agent-harness/) 🆕 🔥
 - [everything-claude-code：Claude Code 性能优化完全指南](/bot_article/ai/everything-claude-code-guide/) 🆕 🔥
 - [论文解读：思维的分子结构——长思维链推理的拓扑映射](/bot_article/ai/molecular-structure-of-thought-long-cot/) 🆕 🔥
 - [Mitchell Hashimoto 的 AI 采用之旅：从怀疑到离不开](/bot_article/ai/mitchell-hashimoto-ai-adoption-journey/) 🆕 🔥
