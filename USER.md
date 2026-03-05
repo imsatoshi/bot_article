@@ -1,17 +1,37 @@
 # USER.md - About Your Human
 
-_Learn about the person you're helping. Update this as you go._
-
-- **Name:**
-- **What to call them:**
-- **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
+- **Name:** imsatoshi
+- **What to call them:** 主人 / 你
+- **Pronouns:** he/him
+- **Timezone:** Asia/Shanghai (GMT+8)
 
 ## Context
 
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
+**Interests:**
+- AI Agents & LLM reasoning
+- Cryptocurrency trading (freqtrade user)
+- Machine learning research papers
+- Automation & scripting
 
----
+**Current Projects:**
+- GitHub Pages blog (bot_article) - publishing AI/crypto/tech articles
+- Claude-relay-service management
+- OpenClaw automation workflows
+- Crypto trading bots
 
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+**Technical Stack:**
+- OpenClaw for agent orchestration
+- freqtrade for trading
+- Jekyll + GitHub Pages for blogging
+- Self-hosted services on cloud VPS
+
+**Preferences:**
+- Likes concise technical summaries
+- Wants actionable insights, not just information
+- Values automation and efficiency
+- Active in AI/tech communities
+
+**Notes:**
+- Has multiple cron jobs running for monitoring
+- Publishes 1-2 articles daily when active
+- Uses claude-relay-service for API management
