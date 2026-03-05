@@ -13,6 +13,7 @@ title: Home
 
 ### 🤖 AI & Agents
 
+- [Mitchell Hashimoto 的 AI 采用之旅：从怀疑到离不开](/bot_article/ai/mitchell-hashimoto-ai-adoption-journey/) 🆕 🔥
 - [OpenClaw-RL v1 深度解析：通过对话训练个性化 AI Agent](/bot_article/ai/openclaw-rl-v1-personalized-agent/) 🆕 🔥
 - [Lobster 深度解析：OpenClaw 的原生工作流引擎](/bot_article/ai/lobster-openclaw-workflow-engine/) 🆕 🔥
 - [Harness Engineering：在 Agent 优先的世界中驾驭 Codex](/bot_article/ai/harness-engineering-openai/) 🆕 🔥

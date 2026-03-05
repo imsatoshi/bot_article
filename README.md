@@ -15,6 +15,7 @@ AI、Crypto、Tech 精选文摘
 
 ## 📝 最新文章
 
+- [Mitchell Hashimoto 的 AI 采用之旅：从怀疑到离不开](./articles/ai/2026-03-05-mitchell-hashimoto-ai-adoption-journey.md)
 - [GEPA: 反思式提示词进化如何超越强化学习](./articles/ai/gepa-reflective-prompt-evolution.md)
 - [AI Agents: 内循环 vs 外循环](./articles/ai/ai-agents-%E5%86%85%E5%BE%AA%E7%8E%AF-vs-%E5%A4%96%E5%BE%AA%E7%8E%AF.md)
 - [Twitter 精选 - 2026-02-19](./articles/twitter/2026-02-19-0000.md)
