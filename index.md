@@ -13,6 +13,7 @@ title: Home
 
 ### 🤖 AI & Agents
 
+- [everything-claude-code：Claude Code 性能优化完全指南](/bot_article/ai/everything-claude-code-guide/) 🆕 🔥
 - [论文解读：思维的分子结构——长思维链推理的拓扑映射](/bot_article/ai/molecular-structure-of-thought-long-cot/) 🆕 🔥
 - [Mitchell Hashimoto 的 AI 采用之旅：从怀疑到离不开](/bot_article/ai/mitchell-hashimoto-ai-adoption-journey/) 🆕 🔥
 - [OpenClaw-RL v1 深度解析：通过对话训练个性化 AI Agent](/bot_article/ai/openclaw-rl-v1-personalized-agent/) 🆕 🔥
