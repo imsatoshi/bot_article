@@ -165,6 +165,139 @@ Agent 甚至可以为自己或同事**创建新技能**。
 
 ---
 
+## 🔧 Agent Runtime 深度剖析
+
+Clawith 最值得关注的技术决策是：**完全自研 Agent Runtime，不依赖任何现有框架**。
+
+### ❌ 没有使用这些框架
+
+| 框架 | 状态 | 说明 |
+|------|------|------|
+| **LangChain** | ❌ 未使用 | 无 `langchain` 依赖 |
+| **LlamaIndex** | ❌ 未使用 | 无 RAG pipeline |
+| **AutoGen** | ❌ 未使用 | 自研多 Agent 协作 |
+| **CrewAI** | ❌ 未使用 | 自研角色系统 |
+| **OpenClaw** | ❌ 未使用 | Node.js → Python 重写 |
+| **LiteLLM** | ❌ 未使用 | 自研多 provider 适配 |
+
+### ✅ 自研 Runtime 核心实现
+
+```python
+# 任务执行核心 (task_executor.py)
+async def execute_task(task_id, agent_id):
+    # 1. 加载 Agent + LLM 配置
+    agent = await load_agent(agent_id)
+    model = await load_model(agent.primary_model_id)
+    
+    # 2. 构建 Prompt
+    system_prompt = f"你是 {agent.name}，企业数字员工..."
+    user_prompt = f"任务标题: {task.title}..."
+    
+    # 3. 直接调用 LLM API (使用 curl!)
+    proc = await asyncio.create_subprocess_exec(
+        "curl", "-s", "--max-time", "60",
+        "-X", "POST", f"{base_url}/chat/completions",
+        "-H", f"Authorization: Bearer {api_key}",
+        "-d", payload, ...
+    )
+    
+    # 4. 解析结果并保存
+    reply = data["choices"][0]["message"]["content"]
+    await save_result(task_id, reply)
+```
+
+### 🏗️ Runtime 核心组件
+
+| 模块 | 文件 | 功能 |
+|------|------|------|
+| **Agent 管理** | `agent_manager.py` | Agent 生命周期管理 |
+| **任务执行** | `task_executor.py` | LLM 调用与结果处理 |
+| **上下文管理** | `agent_context.py` | Prompt 构建/上下文注入 |
+| **工具系统** | `agent_tools.py` | Tool 注册与执行 |
+| **MCP 客户端** | `mcp_client.py` | 外部工具动态接入 |
+| **LLM 适配** | `llm_utils.py` | 多 provider 统一接口 |
+| **自主级别** | `autonomy_service.py` | L1/L2/L3 权限控制 |
+| **协作服务** | `collaboration.py` | Agent 间消息传递 |
+| **心跳系统** | `heartbeat.py` | 周期性环境感知 |
+
+### 🔌 LLM Provider 适配层
+
+自研 `llm_utils.py` 处理各 provider 差异：
+
+```python
+# 支持的 Provider
+PROVIDER_URLS = {
+    "openai": "https://api.openai.com/v1",
+    "anthropic": "https://api.anthropic.com/v1",
+    "deepseek": "https://api.deepseek.com/v1",
+    "qwen": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+    "zhipu": "https://open.bigmodel.cn/api/paas/v4",
+    "openrouter": "https://openrouter.ai/api/v1",
+}
+
+# 自己处理 tool_choice 适配
+_TOOL_CHOICE_PROVIDERS = {
+    "openai", "qwen", "deepseek", 
+    "zhipu", "openrouter", "custom"
+}
+
+# 自己管理 max_tokens 限制
+_MAX_TOKENS_BY_PROVIDER = {
+    "qwen": 8192,
+    "anthropic": 4096,
+}
+```
+
+### 🎯 设计特点
+
+#### 1. 极简主义 - "裸机编程"
+- 不用重型框架，直接用 `curl` 调 API
+- 减少依赖，降低复杂度
+- 自己掌控每个细节
+
+#### 2. 数据库驱动架构
+- Agent 状态存在 PostgreSQL
+- 任务队列持久化
+- 审计日志完整可追溯
+
+#### 3. MCP 协议扩展
+- 唯一外部依赖是 **MCP (Model Context Protocol)**
+- 用于动态发现/加载外部工具
+- 通过 Smithery/ModelScope 扩展能力
+
+#### 4. 自主级别控制
+```
+L1 auto    → 完全自动执行
+L2 notify  → 执行前通知
+L3 approve → 需要人工审批
+```
+
+### 📊 与主流框架对比
+
+| 特性 | LangChain | Clawith 自研 |
+|------|-----------|--------------|
+| **抽象层级** | 高（Chains/Agents） | 低（直接 API） |
+| **灵活性** | 中等 | 极高 |
+| **学习曲线** | 陡峭 | 平缓（代码直观） |
+| **可控性** | 封装黑盒 | 完全透明 |
+| **扩展性** | 依赖生态 | MCP 动态加载 |
+| **性能** | overhead 较高 | 极简高效 |
+
+### 💡 评价
+
+**优势**:
+- ✅ 无框架依赖，自由度高
+- ✅ 代码简洁，易于理解和修改
+- ✅ 自己掌控 prompt 工程和调用逻辑
+- ✅ MCP 协议确保工具生态兼容
+
+**挑战**:
+- ⚠️ 需自行处理所有边界情况
+- ⚠️ 重复造轮子（重试、流式、工具调用等）
+- ⚠️ 团队需深入理解 LLM API 细节
+
+---
+
 ## 部署配置
 
 ### 最低配置
