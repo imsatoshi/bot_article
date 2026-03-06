@@ -56,6 +56,10 @@ title: Home
 - [epro-memory 深度解析：LLM Agent 的六级分类记忆系统](/bot_article/ai/epro-memory-agent-memory/)
 - [Pi：OpenClaw 背后的极简 Agent 哲学](/bot_article/ai/pi-minimal-agent/)
 
+### 💻 Tech
+
+- [Everything is a Ralph Loop: 软件开发的自主循环新范式](/bot_article/tech/ralph-loop-software-development/) 🆕 🔥
+
 ### 💰 Crypto
 
 - [AgentCoin 挖矿机器人指南](/bot_article/crypto/agentcoin-miner/)

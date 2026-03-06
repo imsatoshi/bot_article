@@ -7,9 +7,9 @@ tags: [AI, Agent, Ralph, Software Engineering, Automation]
 permalink: /tech/ralph-loop-software-development/
 ---
 
-> **原文**: [ghuntley.com/loop](https://ghuntley.com/loop/)  
-> **作者**: Geoffrey Huntley  
-> **整理**: 2026-03-06
+> 原文：[ghuntley.com/loop](https://ghuntley.com/loop/)  
+> 作者：Geoffrey Huntley  
+> 整理时间：2026-03-06
 
 ## 核心观点
 
@@ -18,9 +18,9 @@ Geoffrey Huntley 提出了一种名为 **"Ralph"** 的软件开发新范式—�
 ### 什么是 Ralph？
 
 Ralph 不仅仅是一个工具或框架，它是一种**思维方式**：
-- **正向模式 (Forward Mode)**: 自主构建软件
-- **逆向模式 (Reverse Mode)**: 清洁室重构
-- **核心理念**: 认识到计算机确实可以被编程，而工程师的角色是**编程这个循环本身**
+- **正向模式 (Forward Mode)**：自主构建软件
+- **逆向模式 (Reverse Mode)**：清洁室重构
+- **核心理念**：认识到计算机确实可以被编程，而工程师的角色是**编程这个循环本身**
 
 ### 关键转变
 
@@ -50,8 +50,8 @@ Huntley 在 SFO 观察到大家都在研究多 Agent、Agent 间通信。但他�
 
 Huntley 正在开发一个名为 **"[The Weaving Loom](https://github.com/ghuntley/loom)"** 的基础设施：
 - 演进式软件的基础设施
-- Gas Town（8级）: 旋转盘子和编排
-- **Loom（9级）**: 自主循环演进产品，自动优化收益生成
+- Gas Town（8级）：旋转盘子和编排
+- **Loom（9级）**：自主循环演进产品，自动优化收益生成
 - 本质上是一个**软件工厂**
 
 ### 软件工程的未来
@@ -86,15 +86,15 @@ Huntley 展示了一个惊人的例子：
 1. **构建你自己的 Agent**——不只是使用 Claude Code/Cursor 加速，而是真正理解如何编程这个新计算机
 2. **拥抱循环思维**——软件是可塑的，不是固定的
 3. **关注失败域**——每个循环都是学习机会
-4. **思考: 如果模型不停变好，你还在堆 Jenga 会怎么样？**
+4. **思考：如果模型不停变好，你还在堆 Jenga 会怎么样？**
 
 ## 相关资源
 
-- [原文: Everything is a Ralph Loop](https://ghuntley.com/loop/)
+- [原文：Everything is a Ralph Loop](https://ghuntley.com/loop/)
 - [The Weaving Loom (GitHub)](https://github.com/ghuntley/loom)
 - [如何构建 Coding Agent 工作坊](https://ghuntley.com/agent/)
 - [Gas Town - Steve Yegge](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04)
 
 ---
 
-**思考**: 在这个 AI 驱动的软件开发新纪元，你是在加速堆叠积木，还是在编程自主循环？
+**思考：** 在这个 AI 驱动的软件开发新纪元，你是在加速堆叠积木，还是在编程自主循环？
