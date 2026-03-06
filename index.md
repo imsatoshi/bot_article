@@ -27,6 +27,7 @@ title: Home
 - [AgentCgroup 论文解读：AI Agent 的 OS 资源控制新范式](/bot_article/ai/agentcgroup-paper/) 🆕 🔥
 - [2026年 AI 的关键转折：为什么 Agent Harness 将成为基础设施的核心](/bot_article/ai/agent-harness-2026/) 🆕 🔥
 - [OpenClaw-RL 深度解析：通过对话训练个性化 AI Agent](/bot_article/ai/openclaw-rl-personalized-agent-training/) 🆕 🔥
+- [Clawith 深度解析：企业级多智能体协作平台的架构与实践](/bot_article/ai/clawith-enterprise-multi-agent-platform/) 🆕 🔥
 - [eue + Tape 架构深度解析：自演进 Agent 的上下文管理新范式](/bot_article/ai/eue-tape-architecture/) 🆕 🔥
 - [揭秘：Test-Time Training 本质上是线性注意力机制](/bot_article/ai/ttt-linear-attention/) 🆕 🔥
 - [Anthropic 金融服务插件套件：Claude 进军华尔街](/bot_article/ai/anthropic-financial-services-plugins/) 🆕 🔥
