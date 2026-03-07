@@ -13,6 +13,7 @@ title: Home
 
 ### 🤖 AI & Agents
 
+- [Claude's Cycles: 当 AI 解决 Knuth 的开放数学问题](/bot_article/ai/claude-cycles-knuth/) 🆕 🔥
 - [Anthropic 长运行 Agent Harness 实践：让 AI 跨越多个会话持续工作](/bot_article/ai/anthropic-long-running-agent-harness/) 🆕 🔥
 - [everything-claude-code：Claude Code 性能优化完全指南](/bot_article/ai/everything-claude-code-guide/) 🆕 🔥
 - [论文解读：思维的分子结构——长思维链推理的拓扑映射](/bot_article/ai/molecular-structure-of-thought-long-cot/) 🆕 🔥
