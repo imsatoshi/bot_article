@@ -13,6 +13,7 @@ title: Home
 
 ### 🤖 AI & Agents
 
+- [你不知道的 Claude Code：架构、治理与工程实践](/bot_article/ai/claude-code-architecture-governance/) 🆕 🔥
 - [论文解读：Agent Skills 跨任务基准测试 - SkillsBench](/bot_article/ai/skillsbench-agent-skills-benchmark/) 🆕 🔥
 - [AutoResearch: Karpathy 的 AI 自主研究实验](/bot_article/ai/autoresearch-karpathy/) 🆕 🔥
 - [Claude's Cycles: 当 AI 解决 Knuth 的开放数学问题](/bot_article/ai/claude-cycles-knuth/) 🆕 🔥
